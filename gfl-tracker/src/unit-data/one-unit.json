@@ -2,6 +2,7 @@
     "AR": {
         "M4": {
             "name": "M4",
+            "rarity": 4,
             "stats": {
                 "dam": 46,
                 "acc": 48,
@@ -21,6 +22,7 @@
     "SMG": {
         "UMP45": {
             "name": "UMP45",
+            "rarity": 4,
             "stats": {
                 "dam": 28,
                 "acc": 13,

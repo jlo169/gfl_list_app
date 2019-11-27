@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from './layout/header';
-// import ReactDOM from 'react-dom';
 
 class App extends React.Component {
   render () {
